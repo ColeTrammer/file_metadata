@@ -1,0 +1,25 @@
+{
+  "name": "file_metadata",
+  "version": "1.0.0",
+  "description": "gives the size of files encoded in a form",
+  "main": "server.js",
+  "engines": {
+    "node": "7.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeTrammer/file_metadata.git"
+  },
+  "author": "ColeTrammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColeTrammer/file_metadata/issues"
+  },
+  "homepage": "https://github.com/ColeTrammer/file_metadata#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
