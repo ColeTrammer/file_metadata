@@ -1,7 +1,7 @@
 {
   "name": "file_metadata",
   "version": "1.0.0",
-  "description": "gives the size of files encoded in a form",
+  "description": "gives the size of files encoded in a form.",
   "main": "server.js",
   "engines": {
     "node": "7.8.0"
